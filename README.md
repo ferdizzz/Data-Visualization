@@ -1,6 +1,6 @@
 # Data-Visualization
 # <u>Data Visualization with Altair Library in Python</u>
-* **Background**
+* **Background**: 
     (All the people, places, groups, technologies, contained therein are fictitious.)
     Mistford is a mid-size city to the southwest of the Boonsong Lekagul Wildlife Preserve. The city has a small industrial area with four light-manufacturing endeavors. Mistford and the wildlife preserve are struggling with the possible endangerment of the Rose-Crested Blue Pipit, a locally loved bird.
     The birdʼs nesting pairs seem to have decreased alarmingly. An investigation last year (VAST challenge 2017) indicated that the Kasios Office Furniture, a Mistford manufacturing firm, may be linked to this Though there is no firm evidence. Now the company insists that they have done nothing wrong. It is time for more visual analytics investigation. Several years of water sensor readings from rivers and streams in the preserve. These samples were taken from different locations scattered throughout the area contain measurements of several chemicals of possible interest. My task is to investigate the sensor readings to find possible link to the bird population deduction.
