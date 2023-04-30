@@ -14,3 +14,5 @@
     2. Describe trends and anomalies with respect to chemical contamination
          i. Trends: changes over time and/or sensor site
          ii. Anomalies: sudden change over time or one site significantly different from others.
+
+[View the notebook here](file:///Users/drizzytom/Downloads/Data%20Visualization%20Altair_Notebook.html)
