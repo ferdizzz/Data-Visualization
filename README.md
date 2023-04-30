@@ -15,4 +15,4 @@
          i. Trends: changes over time and/or sensor site
          ii. Anomalies: sudden change over time or one site significantly different from others.
 
-[View the notebook here](file:///Users/drizzytom/Downloads/Data%20Visualization%20Altair_Notebook.html)
+[View the analysis notebook here](https://nbviewer.org/urls/drive.google.com/uc/%3Fexport%3Ddownload%26id%3D1Y6rTriZ9VlZI82XBEUdJXDU_dX_7fZxb)
